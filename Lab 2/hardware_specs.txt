@@ -1,0 +1,6 @@
+Computer Type: MacBook Air 
+CPU: Apple M4
+Memory: 16 GB
+OS: MacOS Tahoe 26.6.2 
+HD: 2 TB 
+Display Resolution: 2560x1664
